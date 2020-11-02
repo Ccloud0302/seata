@@ -1,7 +1,7 @@
 <img src="https://github.com/seata/seata-samples/blob/master/doc/img/seata.png"  height="100" width="426">
 
 # Seata: Simple Extensible Autonomous Transaction Architecture
-
+[![Build Status](https://travis-ci.org/seata/seata.svg?branch=develop)](https://travis-ci.org/seata/seata)
 [![Build Status](https://travis-ci.org/seata/seata.svg?branch=develop)](https://travis-ci.org/seata/seata)
 [![codecov](https://codecov.io/gh/seata/seata/branch/develop/graph/badge.svg)](https://codecov.io/gh/seata/seata)
 [![license](https://img.shields.io/github/license/seata/seata.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
